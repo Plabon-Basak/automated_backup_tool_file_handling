@@ -1,0 +1,5 @@
+Backup created: d:\Python_Projects\Automated_backup_tool\Backup\backup_2026-09-17_14-33-53
+  - index.html
+  - test.csv
+  - test.text
+
